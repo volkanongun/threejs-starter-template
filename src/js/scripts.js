@@ -51,7 +51,7 @@ spotlight.castShadow = true
 spotlight.angle = .2
 
 const options = {
-  sphereColor : '#ffea00',
+  sphereColor : '#0000FF',
   wireframe: false,
   speed: 0.01,
   angle: .2,
